@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Joshua Baker</h1>
-<h3 align="center">I am a Full Stack Developer located in Southern California.</h3>
+<h3 align="center">A Full Stack Developer located in Southern California.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaaaronbaker&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaaaronbaker" /> </p>
