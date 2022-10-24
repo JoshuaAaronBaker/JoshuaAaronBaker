@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Joshua Baker</h1>
+<h1 align="center">Hello World 👋 I'm Joshua Baker</h1>
 <h3 align="center">A Full Stack Developer located in Southern California.</h3>
 <p align="left">I really enjoy the process of figuring out how to make things work, and that made development a perfect fit for me. There are also so many new technologies popping up every day, this makes the field very exciting and fulfilling because I will always have something new to learn or I can always sharpen the skills that I already have.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif">
