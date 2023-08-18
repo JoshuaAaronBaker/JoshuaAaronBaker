@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaaaronbaker&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaaaronbaker" /> </p>
 
-- 🔭 I’m currently working on [Spotify By Me](https://github.com/JoshuaAaronBaker/spotify-by-me.git)
+- 🔭 I’m currently working on [Trailersflix](https://github.com/JoshuaAaronBaker/trailers.git)
 
 - 🌱 I’m currently learning **TypeScript and Python**
 
-- 💬 Ask me about **PERN**
+- 💬 Ask me about **One Piece**
 
 - 📫 How to reach me **joshua.aaron.baker.dev@gmail.com**
 
