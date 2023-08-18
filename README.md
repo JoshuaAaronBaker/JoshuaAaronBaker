@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Joshua Baker</h1>
 <h3 align="center">A Full Stack Developer located in Southern California.</h3>
 <p align="left">I really enjoy the process of figuring out how to make things work, and that made development a perfect fit for me. There are also so many new technologies popping up every day, this makes the field very exciting and fulfilling because I will always have something new to learn or I can always sharpen the skills that I already have.</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif](https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaaaronbaker&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaaaronbaker" /> </p>
 
