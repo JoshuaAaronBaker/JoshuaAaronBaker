@@ -59,20 +59,11 @@ Outside of code, I am usually following movies, music, sports, or a good anime a
 
 ### Recently Playing
 
-<!--
-  Spotify widget:
-  1. Connect your Spotify account at https://github.com/kittinan/spotify-github-profile
-  2. Replace SPOTIFY_USER_ID below with the generated Spotify UID.
-  3. Remove this comment block.
-
-  <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify recently played" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12121389552&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12121389552&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=8c00ff&bar_color_cover=true" alt="Spotify recently playing" />
   </a>
--->
-
-<a href="https://spotify-by-me.joshuabaker.dev">
-  <img src="https://img.shields.io/badge/Spotify-Spotify%20By%20Me-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify By Me" />
-</a>
+</p>
 
 ### A Few More Things
 
